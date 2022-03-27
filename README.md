@@ -1,4 +1,4 @@
-### <img src="https://media0.giphy.com/media/UqGhQEXe4J4ghTTCEi/200w.gif?cid=82a1493bm1nunak9bfgtfs07ajlw1r2ht7igk341972vwrus&rid=200w.gif&ct=g" width="30px">
+### <img src="https://media0.giphy.com/media/UqGhQEXe4J4ghTTCEi/200w.gif?cid=82a1493bm1nunak9bfgtfs07ajlw1r2ht7igk341972vwrus&rid=200w.gif&ct=g" width="100px">
 
 My name is Sudhanshu Mall and I am a DevOps Engineer with 8+ years of experience, currently associated with Informatica Business Solution Private Limited and living in Bangalore, India.
 
@@ -24,15 +24,15 @@ My name is Sudhanshu Mall and I am a DevOps Engineer with 8+ years of experience
 
 ### Experience :
 
-- <a href="https://www.informatica.com/in/" target="_blank"> <img src="https://www.informatica.com/content/dam/informatica-com/en/images/misc/infa-social-share-2022.png" width="100" height="40"> </a> <br>
-  24th Feb 2020 to Present
-- <a href="https://sterlingandwilson.com/" target="_blank"> <img src="https://www.pv-magazine-india.com/wp-content/uploads/sites/8/2021/11/sterling-1200x569.png" width="100" height="40"> </a> <br>
-  1st Jul 2019 to 20th Feb 2020
-- <a href="https://kagamierp.com/" target="_blank"> <img src="https://i0.wp.com/kagamierp.com/wp-content/uploads/2021/11/Kagami_Logo-original.png?fit=1024%2C500" width="100" height="40"> </a> <br>
-  12th Jan 2017 to 30th Jun 2019
-- <a href="https://www.blackbuck.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlQ0VxbDJS1j_16XdLDMMgPT1IuSBY0Oggeg&usqp=CAU" width="100" height="40"> </a> <br>
-  14th Mar 2016 to 25th Nov 2016
-- <a href="https://www.flipkart.com/" target="_blank"> <img src="https://www.bitrefill.com/content/cn/b_rgb%3AFFFFFF%2Cc_pad%2Ch_600%2Cw_1200/v1553602667/flipkart.jpg" width="100" height="40"> </a> <br>
-  24th Nov 2014 to 11th Mar 2016
-- <a href="https://www.justdial.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Justdial_logo.png" width="100" height="40"> </a> <br>
-  3rd Feb 2014 to 21st Nov 2014
+- <a href="https://www.informatica.com/in/" target="_blank"> <img src="https://www.informatica.com/content/dam/informatica-com/en/images/misc/infa-social-share-2022.png" width="100" height="40"> </a>
+  24th Feb 2020 to Present <br><br>
+- <a href="https://sterlingandwilson.com/" target="_blank"> <img src="https://www.pv-magazine-india.com/wp-content/uploads/sites/8/2021/11/sterling-1200x569.png" width="100" height="40"> </a>
+  1st Jul 2019 to 20th Feb 2020<br><br>
+- <a href="https://kagamierp.com/" target="_blank"> <img src="https://i0.wp.com/kagamierp.com/wp-content/uploads/2021/11/Kagami_Logo-original.png?fit=1024%2C500" width="100" height="40"> </a>
+  12th Jan 2017 to 30th Jun 2019<br><br>
+- <a href="https://www.blackbuck.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlQ0VxbDJS1j_16XdLDMMgPT1IuSBY0Oggeg&usqp=CAU" width="100" height="40"> </a>
+  14th Mar 2016 to 25th Nov 2016<br><br>
+- <a href="https://www.flipkart.com/" target="_blank"> <img src="https://www.bitrefill.com/content/cn/b_rgb%3AFFFFFF%2Cc_pad%2Ch_600%2Cw_1200/v1553602667/flipkart.jpg" width="100" height="40"> </a>
+  24th Nov 2014 to 11th Mar 2016<br><br>
+- <a href="https://www.justdial.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Justdial_logo.png" width="100" height="40"> </a>
+  3rd Feb 2014 to 21st Nov 2014<br><br>
